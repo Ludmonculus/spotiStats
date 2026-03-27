@@ -1,0 +1,32 @@
+[
+  {
+    "endTime": "2026-03-20 08:30",
+    "artistName": "Kent",
+    "trackName": "747",
+    "msPlayed": 447000
+  },
+  {
+    "endTime": "2026-03-20 08:38",
+    "artistName": "Robyn",
+    "trackName": "Dancing On My Own",
+    "msPlayed": 288000
+  },
+  {
+    "endTime": "2026-03-20 08:42",
+    "artistName": "Kent",
+    "trackName": "Socker",
+    "msPlayed": 304000
+  },
+  {
+    "endTime": "2026-03-21 15:10",
+    "artistName": "Veronica Maggio",
+    "trackName": "Jag kommer",
+    "msPlayed": 202000
+  },
+  {
+    "endTime": "2026-03-21 15:11",
+    "artistName": "Håkan Hellström",
+    "trackName": "En midsommarnattsdröm",
+    "msPlayed": 10000
+  }
+]

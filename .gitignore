@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+#TA BORT FÖR RIKTIGA SEN
+#streamingHistory.json
+.env
+*.png
